@@ -4,6 +4,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+     - run: pwd; ls-l;
     - name: Installation de graphviz
       run: sudo apt install graphviz
     - name: Check out repository code
