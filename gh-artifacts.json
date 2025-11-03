@@ -1,0 +1,105 @@
+{
+  "total_count": 5,
+  "artifacts": [
+    {
+      "id": 4329840429,
+      "node_id": "MDg6QXJ0aWZhY3Q0MzI5ODQwNDI5",
+      "name": "take files",
+      "size_in_bytes": 5602,
+      "url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329840429",
+      "archive_download_url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329840429/zip",
+      "expired": false,
+      "digest": "sha256:b2cfd7602d4d71eac2c0dfc8b2629730ca01125a993559b5ca519edbb9db325a",
+      "created_at": "2025-10-21T15:19:19Z",
+      "updated_at": "2025-10-21T15:19:19Z",
+      "expires_at": "2026-01-19T15:17:20Z",
+      "workflow_run": {
+        "id": 18688756941,
+        "repository_id": 1080506418,
+        "head_repository_id": 1080506418,
+        "head_branch": "main",
+        "head_sha": "3510767edb24c2d80495e89208a1ee9f91f00b80"
+      }
+    },
+    {
+      "id": 4329790403,
+      "node_id": "MDg6QXJ0aWZhY3Q0MzI5NzkwNDAz",
+      "name": "take files",
+      "size_in_bytes": 5602,
+      "url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329790403",
+      "archive_download_url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329790403/zip",
+      "expired": false,
+      "digest": "sha256:4a8d2a29e59ee17572bfb6c7ceefb3f13a1333bbcdc14a39fb5417e190340ec0",
+      "created_at": "2025-10-21T15:15:31Z",
+      "updated_at": "2025-10-21T15:15:31Z",
+      "expires_at": "2026-01-19T15:13:38Z",
+      "workflow_run": {
+        "id": 18688639373,
+        "repository_id": 1080506418,
+        "head_repository_id": 1080506418,
+        "head_branch": "main",
+        "head_sha": "927e9387fe37245327c6f27e89a959c6200363b1"
+      }
+    },
+    {
+      "id": 4329484983,
+      "node_id": "MDg6QXJ0aWZhY3Q0MzI5NDg0OTgz",
+      "name": "take files",
+      "size_in_bytes": 5602,
+      "url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329484983",
+      "archive_download_url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329484983/zip",
+      "expired": false,
+      "digest": "sha256:6abf2d22c4d62850328201128b6997ea618fce862a3017908b8beb74cf748de6",
+      "created_at": "2025-10-21T14:51:45Z",
+      "updated_at": "2025-10-21T14:51:45Z",
+      "expires_at": "2026-01-19T14:50:05Z",
+      "workflow_run": {
+        "id": 18687936492,
+        "repository_id": 1080506418,
+        "head_repository_id": 1080506418,
+        "head_branch": "main",
+        "head_sha": "4bf4989f44d2e97f2000b77d9954a96e484ee5c1"
+      }
+    },
+    {
+      "id": 4329348227,
+      "node_id": "MDg6QXJ0aWZhY3Q0MzI5MzQ4MjI3",
+      "name": "Upload",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329348227",
+      "archive_download_url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329348227/zip",
+      "expired": false,
+      "digest": "sha256:dfe17ae3b732a13dac53af12194cfb3056102a4e59ffd7db067932a575a768a2",
+      "created_at": "2025-10-21T14:40:53Z",
+      "updated_at": "2025-10-21T14:40:53Z",
+      "expires_at": "2026-01-19T14:39:00Z",
+      "workflow_run": {
+        "id": 18687606870,
+        "repository_id": 1080506418,
+        "head_repository_id": 1080506418,
+        "head_branch": "main",
+        "head_sha": "ed8d0eb38cd3913dc3d6dfffea2c5a4e636377ad"
+      }
+    },
+    {
+      "id": 4329236084,
+      "node_id": "MDg6QXJ0aWZhY3Q0MzI5MjM2MDg0",
+      "name": "Upload",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329236084",
+      "archive_download_url": "https://api.github.com/repos/damermic/R509-graphiz/actions/artifacts/4329236084/zip",
+      "expired": false,
+      "digest": "sha256:77073d28c3d75ecc2ef8ef9ad26c50e321f6fa1bfe55d0db2d272a65d029b151",
+      "created_at": "2025-10-21T14:32:16Z",
+      "updated_at": "2025-10-21T14:32:16Z",
+      "expires_at": "2026-01-19T14:30:19Z",
+      "workflow_run": {
+        "id": 18687332154,
+        "repository_id": 1080506418,
+        "head_repository_id": 1080506418,
+        "head_branch": "main",
+        "head_sha": "ceb734e01b825aaefcaf8bd1bb780911b6ef4195"
+      }
+    }
+  ]
+}
